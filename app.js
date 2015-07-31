@@ -1,0 +1,1 @@
+var app = angular.module("reddit", []) //initializing a new angular module named reddit
